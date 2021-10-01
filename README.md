@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jhoan Miguel</h1>
-<h3 align="center">A passionate backend developer from Dominican Republic</h3>
+<h3 align="center">A passionate backend Jr. developer from Dominican Republic</h3>
 
 - 🔭 I’m currently working on [An API REST for Store](https://github.com/Jhoan-JS/API-STORE)
 
