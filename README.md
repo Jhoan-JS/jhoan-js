@@ -1,30 +1,95 @@
-<h1 align="center">Hi 👋, I'm Jhoan Miguel</h1>
-<h3 align="center">A passionate backend Jr. developer from Dominican Republic<</h3>
+# Jhoan Miguel
 
-- 🔭 I’m currently working on [Natours-API](https://github.com/Jhoan-JS/Natours-API)
+I'm a Technical Consultant focused on PeopleSoft, integrations, backend development, and automation.
 
-- 🌱 I’m currently learning **Python, BIG O**
+Most of my work is around solving practical problems: connecting systems, reducing manual processes, building APIs, and creating small tools that make a workflow easier.
 
-- 💬 Ask me about **Javascript, NodeJS, Express, Servers, MongoDB**
+I like working close to real use cases, especially when software can remove repetitive work or help people get things done faster.
 
-- 📫 How to reach me **jhoanmiguel06@gmail.com***
+## About me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jhoan miguel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jhoan miguel" height="30" width="40" /></a>
+I have experience working with PeopleSoft environments, integrations, web services, troubleshooting, and technical support.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+Outside of enterprise systems, I also build personal projects with Python, JavaScript, Node.js, FastAPI, and automation tools. Lately, I have been exploring AI assistants, chatbots, and business-focused automation.
 
+I’m especially interested in projects that combine backend development, AI, and real operational problems.
 
-<h3 align="left">Screenshots of my projects:</h3>
+## Main areas
 
-<a href="https://ibb.co/Jj3y7Qt"><img src="https://i.ibb.co/chYCFL3/Screenshot-2021-09-11-at-12-09-16-Todo-List.png" alt="Screenshot-2021-09-11-at-12-09-16-Todo-List" border="0" /></a>
+* PeopleSoft technical consulting
+* System integrations
+* Backend development
+* REST APIs
+* Automation
+* AI assistants and chatbots
+* WebSocket-based chat tools
+* Moodle and academic system integrations
 
-<a href="https://ibb.co/kc6MMtG"><img src="https://i.ibb.co/vzvDDSc/Screenshot-2021-09-11-at-12-07-02-Tin-Dog.png" alt="Screenshot-2021-09-11-at-12-07-02-Tin-Dog" border="0"></a>
+## Technologies I use
 
-<a href="https://ibb.co/sw9HBw4"><img src="https://i.ibb.co/VSYmKSG/Screenshot-2021-09-11-at-11-57-06-Keep-Links.png" alt="Screenshot-2021-09-11-at-11-57-06-Keep-Links" border="0"></a>
+**Languages**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhoan-js&show_icons=true&locale=en&layout=compact" alt="jhoan-js" /></p>
+Python, JavaScript, Java, SQL, PeopleCode
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jhoan-js&show_icons=true&locale=en" alt="jhoan-js" /></p>
+**Backend and APIs**
+
+FastAPI, Node.js, Express.js, REST APIs, WebSockets
+
+**Enterprise and platforms**
+
+PeopleSoft, Moodle, Integration Broker, Application Engine
+
+**Tools**
+
+Git, GitHub, Vercel, Linux, automation workflows
+
+## Projects
+
+### WhatsApp AI Receptionist Demo
+
+A demo of an AI receptionist for small businesses.
+The idea is to help businesses respond faster, capture appointment requests, organize leads, and avoid losing potential clients because of slow replies.
+
+### PeopleSoft and Moodle Integration
+
+An integration project focused on automating academic processes between PeopleSoft Campus and Moodle.
+
+The goal was to reduce manual work, improve data synchronization, and make academic operations more efficient.
+
+### PeopleSoft Chat Assistant
+
+A chat assistant built around PeopleSoft workflows.
+
+This project explores how a conversational interface can help users interact with institutional systems in a simpler way. It includes backend logic, WebSocket communication, streaming responses, and integration with AI services.
+
+### Telegram Bots
+
+I have built Telegram bot projects for automation and content delivery, including wallpaper-related bots.
+
+These projects helped me practice API consumption, bot flows, user commands, and background automation.
+
+### API and Backend Practice Projects
+
+I also have several backend projects focused on API design, authentication, routing, database interaction, and server-side structure.
+
+## What I’m working toward
+
+I want to keep building tools that are simple, useful, and connected to real problems.
+
+Right now, my main interests are:
+
+* AI tools for small businesses
+* Automation for repetitive tasks
+* Better internal tools for enterprise systems
+* Chat interfaces for existing platforms
+* Backend services that are easy to maintain
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jhoan-JS\&show_icons=true\&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhoan-JS\&layout=compact\&theme=default)
+
+## Contact
+
+Open to learning, collaborating, and building practical tools around backend development, automation, PeopleSoft, and AI assistants.
