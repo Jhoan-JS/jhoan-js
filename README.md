@@ -1,95 +1,53 @@
 # Jhoan Miguel
 
-I'm a Technical Consultant focused on PeopleSoft, integrations, backend development, and automation.
+**Backend development · APIs · Systems integration**
 
-Most of my work is around solving practical problems: connecting systems, reducing manual processes, building APIs, and creating small tools that make a workflow easier.
+I'm a technical consultant with a PeopleSoft background, based in the Dominican Republic. My work involves connecting enterprise systems, working with SQL and web services, and troubleshooting the data and application logic behind business workflows.
 
-I like working close to real use cases, especially when software can remove repetitive work or help people get things done faster.
+I'm interested in backend engineering: designing APIs, making integrations reliable, and understanding why a system behaves the way it does. I also build with Python and FastAPI outside the PeopleSoft stack.
 
-## About me
+## Engineering experience
 
-I have experience working with PeopleSoft environments, integrations, web services, troubleshooting, and technical support.
+- **Enterprise integrations:** PeopleSoft web services and Integration Broker, including integration work between academic systems and Moodle.
+- **APIs and backend services:** REST APIs, data mapping, and backend logic that connects applications to existing systems.
+- **Databases:** Oracle SQL and PeopleSoft data structures for retrieving, transforming, and investigating application data.
+- **Technical troubleshooting:** tracing problems across application code, service requests, and database queries.
 
-Outside of enterprise systems, I also build personal projects with Python, JavaScript, Node.js, FastAPI, and automation tools. Lately, I have been exploring AI assistants, chatbots, and business-focused automation.
+## Selected work
 
-I’m especially interested in projects that combine backend development, AI, and real operational problems.
+### PeopleSoft and Moodle integration — private work
 
-## Main areas
+Integration work between PeopleSoft Campus Solutions and Moodle, focused on academic workflows and data synchronization. This involves working across system interfaces and troubleshooting integration behavior.
 
-* PeopleSoft technical consulting
-* System integrations
-* Backend development
-* REST APIs
-* Automation
-* AI assistants and chatbots
-* WebSocket-based chat tools
-* Moodle and academic system integrations
+### PeopleSoft chat assistant — private work
 
-## Technologies I use
+Backend work for a conversational interface to enterprise workflows, using Python, FastAPI, and WebSockets. The work includes integrating existing services and streaming responses to a chat interface.
 
-**Languages**
+These descriptions are intentionally general. Client information, internal code, infrastructure details, and institutional data are not published here.
 
-Python, JavaScript, Java, SQL, PeopleCode
+## Public prototype
 
-**Backend and APIs**
+### [WhatsApp AI Receptionist Demo](https://github.com/Jhoan-JS/whatsapp-ai-receptionist-demo)
 
-FastAPI, Node.js, Express.js, REST APIs, WebSockets
+A TypeScript and Next.js prototype for a fictional dental clinic. It demonstrates a conversation flow with input validation, structured appointment requests, and a follow-up dashboard in English and Spanish.
 
-**Enterprise and platforms**
+The current implementation is a static frontend with rule-based responses and browser-local storage. It does not include a backend, database, authentication, live AI calls, or a WhatsApp API integration.
 
-PeopleSoft, Moodle, Integration Broker, Application Engine
+[Conversation logic](https://github.com/Jhoan-JS/whatsapp-ai-receptionist-demo/blob/master/lib/conversationEngine.ts) · [Storage implementation](https://github.com/Jhoan-JS/whatsapp-ai-receptionist-demo/blob/master/lib/leadStorage.ts)
 
-**Tools**
+## Technical toolkit
 
-Git, GitHub, Vercel, Linux, automation workflows
+- **Backend and communication:** Python, FastAPI, REST APIs, WebSockets
+- **Enterprise systems and data:** PeopleSoft, PeopleCode, Integration Broker, Application Engine, Oracle SQL, Moodle
+- **Additional development experience:** JavaScript, Node.js, Express
+- **Tools:** Git, GitHub, Linux
 
-## Projects
+## What I'm looking for
 
-### WhatsApp AI Receptionist Demo
+I'm exploring Backend Engineer, Software Engineer, and Integration/Platform Engineer roles where I can contribute to API design, data integration, database work, and technical problem-solving.
 
-A demo of an AI receptionist for small businesses.
-The idea is to help businesses respond faster, capture appointment requests, organize leads, and avoid losing potential clients because of slow replies.
-
-### PeopleSoft and Moodle Integration
-
-An integration project focused on automating academic processes between PeopleSoft Campus and Moodle.
-
-The goal was to reduce manual work, improve data synchronization, and make academic operations more efficient.
-
-### PeopleSoft Chat Assistant
-
-A chat assistant built around PeopleSoft workflows.
-
-This project explores how a conversational interface can help users interact with institutional systems in a simpler way. It includes backend logic, WebSocket communication, streaming responses, and integration with AI services.
-
-### Telegram Bots
-
-I have built Telegram bot projects for automation and content delivery, including wallpaper-related bots.
-
-These projects helped me practice API consumption, bot flows, user commands, and background automation.
-
-### API and Backend Practice Projects
-
-I also have several backend projects focused on API design, authentication, routing, database interaction, and server-side structure.
-
-## What I’m working toward
-
-I want to keep building tools that are simple, useful, and connected to real problems.
-
-Right now, my main interests are:
-
-* AI tools for small businesses
-* Automation for repetitive tasks
-* Better internal tools for enterprise systems
-* Chat interfaces for existing platforms
-* Backend services that are easy to maintain
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jhoan-JS\&show_icons=true\&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhoan-JS\&layout=compact\&theme=default)
+I want to deepen my experience building maintainable backend services and reliable systems.
 
 ## Contact
 
-Open to learning, collaborating, and building practical tools around backend development, automation, PeopleSoft, and AI assistants.
+[Email](mailto:jhoanmiguel06@gmail.com) · [GitHub](https://github.com/Jhoan-JS)
