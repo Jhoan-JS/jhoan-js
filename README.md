@@ -15,6 +15,12 @@ I'm interested in backend engineering: designing APIs, making integrations relia
 
 ## Selected work
 
+### [Integration Event Inbox](https://github.com/Jhoan-JS/integration-event-inbox)
+
+A Python and FastAPI backend for receiving synthetic enrollment events, with SQLite persistence, API key authentication, and idempotent retries. Tests cover concurrent deliveries, restart persistence, conflicting payloads, and rollback when a commit fails.
+
+[Architecture](https://github.com/Jhoan-JS/integration-event-inbox/blob/master/docs/architecture.md) · [Tests](https://github.com/Jhoan-JS/integration-event-inbox/blob/master/tests/test_api.py) · [CI](https://github.com/Jhoan-JS/integration-event-inbox/actions/workflows/ci.yml)
+
 ### PeopleSoft and Moodle integration — private work
 
 Integration work between PeopleSoft Campus Solutions and Moodle, focused on academic workflows and data synchronization. This involves working across system interfaces and troubleshooting integration behavior.
@@ -25,7 +31,7 @@ Backend work for a conversational interface to enterprise workflows, using Pytho
 
 These descriptions are intentionally general. Client information, internal code, infrastructure details, and institutional data are not published here.
 
-## Public prototype
+## Frontend prototype
 
 ### [WhatsApp AI Receptionist Demo](https://github.com/Jhoan-JS/whatsapp-ai-receptionist-demo)
 
