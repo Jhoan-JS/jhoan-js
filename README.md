@@ -56,4 +56,4 @@ I want to deepen my experience building maintainable backend services and reliab
 
 ## Contact
 
-[Email](mailto:jhoanmiguel06@gmail.com) · [GitHub](https://github.com/Jhoan-JS)
+[Email](mailto:jhoanmiguel06@gmail.com) · [GitHub](https://github.com/Jhoan-JS) · [LinkedIn](https://www.linkedin.com/in/jhoan-miguel-a50676212)
