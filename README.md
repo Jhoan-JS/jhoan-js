@@ -21,6 +21,12 @@ A Python and FastAPI backend for receiving synthetic enrollment events, with SQL
 
 [Architecture](https://github.com/Jhoan-JS/integration-event-inbox/blob/master/docs/architecture.md) · [Tests](https://github.com/Jhoan-JS/integration-event-inbox/blob/master/tests/test_api.py) · [CI](https://github.com/Jhoan-JS/integration-event-inbox/actions/workflows/ci.yml)
 
+### [Media Gallery for Android](https://github.com/Jhoan-JS/media-gallery-android)
+
+An Android gallery for browsing photos and videos from selected Telegram chats without downloading the entire library. A separate connector with a Go engine fetches media on demand. The apps can talk to each other only when their signatures match, and offline downloads stay encrypted on the device.
+
+[Download the APKs](https://github.com/Jhoan-JS/media-gallery-android/releases/tag/gallery-v2.18-tg-v1.1) · [Connector setup](https://github.com/Jhoan-JS/media-gallery-android/blob/main/telegram/README.md)
+
 ### PeopleSoft and Moodle integration — private work
 
 Integration work between PeopleSoft Campus Solutions and Moodle, focused on academic workflows and data synchronization. This involves working across system interfaces and troubleshooting integration behavior.
